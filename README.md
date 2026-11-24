@@ -394,6 +394,7 @@ Community-maintained plugin marketplaces you can add to access additional plugin
 | Marketplace | Description | Install |
 |-------------|-------------|---------|
 | [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips?tab=readme-ov-file#install-the-dx-plugin) | dx plugin: GitHub Actions analysis (`/gha`), conversation cloning (`/clone`, `/half-clone`), context handoffs (`/handoff`), Reddit fetching (`/reddit-fetch`) | `claude plugin marketplace add ykdojo/claude-code-tips` then `claude plugin install dx@ykdojo` |
+| [MaksimGalatin/padam-nocturne](https://github.com/MaksimGalatin/padam-nocturne) | Local sovereign AI agent memory (SQLite + FTS5 + vectors) with pre-write secret redaction, prompt-injection quarantine & 4-ring Agentic Shield (v0.8.0, `PADAM License 1.0`) | `claude plugin marketplace add MaksimGalatin/padam-nocturne` then `claude plugin install padam-nocturne@padam-nocturne-marketplace` |
 
 
 ### Skills & Frameworks
